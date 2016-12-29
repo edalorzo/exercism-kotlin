@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleScoreTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-06-19T05:02:07" hostname="mbp-edalorzo.local" time="0.017">
+  <properties/>
+  <testcase name="test[0: scoreWord()=0]" classname="ScrabbleScoreTest" time="0.014"/>
+  <testcase name="test[1: scoreWord( &#9;&#10;)=0]" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="test[2: scoreWord(a)=1]" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="test[3: scoreWord(f)=4]" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="test[4: scoreWord(street)=6]" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="test[5: scoreWord(quirky)=22]" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="test[6: scoreWord(OXYPHENBUTAZONE)=41]" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="test[7: scoreWord(alacrity)=13]" classname="ScrabbleScoreTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

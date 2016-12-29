@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhoneNumberTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-06-18T20:12:07" hostname="mbp-edalorzo.local" time="0.025">
+  <properties/>
+  <testcase name="areaCode" classname="PhoneNumberTest" time="0.019"/>
+  <testcase name="invalidWhen9Digits" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="toStringPrintWithFullUSPhoneNumber" classname="PhoneNumberTest" time="0.002"/>
+  <testcase name="cleansNumberWithDots" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="cleansNumber" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="validWhen11DigitsAndFirstIs1" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="invalidWhenOnly11Digits" classname="PhoneNumberTest" time="0.0"/>
+  <testcase name="toStringPrint" classname="PhoneNumberTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

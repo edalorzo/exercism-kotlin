@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SquaresTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2016-06-19T01:50:26" hostname="mbp-edalorzo.local" time="0.018">
+  <properties/>
+  <testcase name="squareOfSum100" classname="SquaresTest" time="0.014"/>
+  <testcase name="squareOfSum5" classname="SquaresTest" time="0.0"/>
+  <testcase name="sumOfSquares100" classname="SquaresTest" time="0.001"/>
+  <testcase name="sumOfSquares10" classname="SquaresTest" time="0.0"/>
+  <testcase name="differenceOfSquares0" classname="SquaresTest" time="0.0"/>
+  <testcase name="differenceOfSquares5" classname="SquaresTest" time="0.0"/>
+  <testcase name="differenceOfSquares100" classname="SquaresTest" time="0.0"/>
+  <testcase name="squareOfSum10" classname="SquaresTest" time="0.0"/>
+  <testcase name="differenceOfSquares10" classname="SquaresTest" time="0.0"/>
+  <testcase name="sumOfSquares5" classname="SquaresTest" time="0.0"/>
+  <testcase name="consistentDifference" classname="SquaresTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

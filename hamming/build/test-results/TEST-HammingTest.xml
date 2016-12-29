@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HammingTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-06-17T22:54:25" hostname="mbp-edalorzo.local" time="0.019">
+  <properties/>
+  <testcase name="smallHammingDistanceInLongerStrand" classname="HammingTest" time="0.016"/>
+  <testcase name="smallHammingDistance" classname="HammingTest" time="0.0"/>
+  <testcase name="completeHammingDistanceOfForSingleNucleotideStrand" classname="HammingTest" time="0.0"/>
+  <testcase name="hammingDistanceInVeryLongStrand" classname="HammingTest" time="0.0"/>
+  <testcase name="noDifferenceBetweenIdenticalStrands" classname="HammingTest" time="0.001"/>
+  <testcase name="largeHammingDistance" classname="HammingTest" time="0.0"/>
+  <testcase name="validatesFirstStrandNotLonger" classname="HammingTest" time="0.001"/>
+  <testcase name="validatesOtherStrandNotLonger" classname="HammingTest" time="0.0"/>
+  <testcase name="completeHammingDistanceForSmallStrand" classname="HammingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NucleotideTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2016-06-19T01:29:21" hostname="mbp-edalorzo.local" time="0.038">
+  <properties/>
+  <testcase name="countsANucleotideOnlyOnce" classname="NucleotideTest" time="0.033"/>
+  <testcase name="countsOnlyThymidine" classname="NucleotideTest" time="0.0"/>
+  <testcase name="validatesNucleotides" classname="NucleotideTest" time="0.0"/>
+  <testcase name="dnaCountsDoNotChangeAfterCountingAdenosine" classname="NucleotideTest" time="0.001"/>
+  <testcase name="repetitiveCytidineGetsCounted" classname="NucleotideTest" time="0.0"/>
+  <testcase name="countsAllNucleotides" classname="NucleotideTest" time="0.0"/>
+  <testcase name="emptyDnaStringHasNoAdenosine" classname="NucleotideTest" time="0.0"/>
+  <testcase name="emptyDnaStringHasNoNucleotides" classname="NucleotideTest" time="0.0"/>
+  <testcase name="repetitiveSequenceWithOnlyGuanosine" classname="NucleotideTest" time="0.0"/>
+  <testcase name="validatesNucleotidesCountInput" classname="NucleotideTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

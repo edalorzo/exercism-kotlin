@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BeerSongTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2016-06-19T00:41:59" hostname="mbp-edalorzo.local" time="0.051">
+  <properties/>
+  <testcase name="verse100" classname="BeerSongTest" time="0.019"/>
+  <testcase name="entireSong" classname="BeerSongTest" time="0.025"/>
+  <testcase name="verse0" classname="BeerSongTest" time="0.0"/>
+  <testcase name="verse1" classname="BeerSongTest" time="0.001"/>
+  <testcase name="verse2" classname="BeerSongTest" time="0.0"/>
+  <testcase name="verse8" classname="BeerSongTest" time="0.001"/>
+  <testcase name="songVerse3To0" classname="BeerSongTest" time="0.0"/>
+  <testcase name="songVerse8To6" classname="BeerSongTest" time="0.0"/>
+  <testcase name="verse99" classname="BeerSongTest" time="0.001"/>
+  <testcase name="verseMinus1" classname="BeerSongTest" time="0.0"/>
+  <testcase name="songVerse3ToMinus1" classname="BeerSongTest" time="0.0"/>
+  <testcase name="songVerse100To98" classname="BeerSongTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

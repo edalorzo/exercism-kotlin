@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinaryTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2016-06-19T08:04:38" hostname="mbp-edalorzo.local" time="0.028">
+  <properties/>
+  <testcase name="binaryStringToInt[0: binary(1)=1]" classname="BinaryTest" time="0.022"/>
+  <testcase name="binaryStringToInt[1: binary(10)=2]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[2: binary(11)=3]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[3: binary(100)=4]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[4: binary(1001)=9]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[5: binary(11010)=26]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[6: binary(10001101000)=1,128]" classname="BinaryTest" time="0.001"/>
+  <testcase name="binaryStringToInt[7: binary(2)=0]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[8: binary(5)=0]" classname="BinaryTest" time="0.001"/>
+  <testcase name="binaryStringToInt[9: binary(9)=0]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[10: binary(134678)=0]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[11: binary(abc10z)=0]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[12: binary(011)=3]" classname="BinaryTest" time="0.0"/>
+  <testcase name="binaryStringToInt[13: binary(g1)=0]" classname="BinaryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

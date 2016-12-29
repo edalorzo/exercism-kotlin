@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RobotTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-06-18T17:52:37" hostname="mbp-edalorzo.local" time="0.008">
+  <properties/>
+  <testcase name="differentRobotsHaveDifferentNames" classname="RobotTest" time="0.006"/>
+  <testcase name="hasName" classname="RobotTest" time="0.001"/>
+  <testcase name="resetName" classname="RobotTest" time="0.0"/>
+  <system-out><![CDATA[TK852
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeriesInvalidInputTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-06-19T06:33:24" hostname="mbp-edalorzo.local" time="0.014">
+  <properties/>
+  <testcase name="spanLargerThanStringSize" classname="SeriesInvalidInputTest" time="0.012"/>
+  <testcase name="spanLargerThanStringSizeUsingEmptyString" classname="SeriesInvalidInputTest" time="0.0"/>
+  <testcase name="negativeSpan" classname="SeriesInvalidInputTest" time="0.0"/>
+  <testcase name="nonDigitCharacters" classname="SeriesInvalidInputTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
