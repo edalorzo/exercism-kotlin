@@ -4,10 +4,10 @@ These are my solutions to the [Exercism](http://exercism.io) challenges for the 
 
 ## Solutions to Challenges
 
-|  | Challenge                    | Solution           |
-|--| -----------------------------| ------------------ |
-|01| [Hello World][1]             | [View Solution][2] |
-|02| [RNA Transciption][3]        | [View Solution][4] |
+Index     | Challenge                    | Solution           
+----------| -----------------------------| ------------------ 
+01        | [Hello World][1]             | [View Solution][2] 
+02        | [RNA Transciption][3]        | [View Solution][4] 
 
 [1]: (http://exercism.io/exercises/kotlin/hello-world/readme)
 [2]: (http://exercism.io/submissions/01de5be8843749f2a754cf4b294d9c96)
